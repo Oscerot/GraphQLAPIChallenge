@@ -9,7 +9,7 @@ const client = new ApolloClient({
   cache: new InMemoryCache(),
   headers: {
     // I couldn't find a token in the .env file, so I created one for myself in Github
-    authorization: `Bearer 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`,
+    authorization: `Bearer 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`,
   }
 });
 
